@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 #purpose: set specified adapter to monitor mode and disable NetworkManger/wpa_supplicant
 #usage: sudo ./monMode.sh <adapter>
